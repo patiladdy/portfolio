@@ -1,0 +1,5 @@
+# https://your-domain.example — replace with the final domain
+User-agent: *
+Allow: /
+
+Sitemap: https://your-domain.example/sitemap.xml
